@@ -27,3 +27,16 @@ A toolbox permite:
 - Mosaicos, pirâmides, boundary layer -4
 - LAS Dataset automático - 5
 - Adicionar outputs ao mapa - 6
+
+
+4. Parâmetros da Ferramenta
+Inclui:
+- Método de área de interesse (Polígono / Extent) -1
+- Delay entre pedidos -2
+- Área máxima para subdivisão automática -3
+- Presets e lista de coleções
+- Caminho de saída
+- Opções adicionais de mosaico, pirâmides, LAS Dataset, boundary layer e adicionar ao mapa
+
+
+
